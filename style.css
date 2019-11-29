@@ -24,7 +24,7 @@ body {
 	        animation: pulse 400ms infinite alternate;
 
 	display: inline-block;
-	padding: 0 4em;
+	padding: 0 3em;
 }
 @-webkit-keyframes pulse {
 	0% { background-color: red; }
